@@ -1,0 +1,22 @@
+
+0	START
+
+3	1003
+
+3	ONE
+
+3	SUB
+
+6	1012
+
+6	C'KLNCE
+
+6	RESB
+
+6	TWO
+
+9	1022
+
+9	1
+
+9	WORD
